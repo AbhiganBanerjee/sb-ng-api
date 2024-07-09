@@ -1,0 +1,7 @@
+in\spring\SpringAngularIntegrationApp01Application.class
+in\spring\document\Games.class
+in\spring\service\GamesServiceImpl.class
+in\spring\repository\GamesRepository.class
+in\spring\rest\GamesRestController.class
+in\spring\config\CorsConfig.class
+in\spring\service\GamesService.class
