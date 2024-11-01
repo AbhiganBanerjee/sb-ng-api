@@ -1,4 +1,4 @@
-# Created at 2024-07-09T14:54:52.071
+# Created at 2024-11-01T19:03:46.518
 Boot Manifest-JAR contains absolute paths in classpath 'D:\STS_Workspace01\Spring_Angular_Integration_App01\target\test-classes'
 Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
 'other' has different root

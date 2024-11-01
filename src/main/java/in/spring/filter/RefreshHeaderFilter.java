@@ -17,7 +17,7 @@ public class RefreshHeaderFilter implements Filter {
     @Override
     public void doFilter(ServletRequest request, ServletResponse response, FilterChain chain) throws IOException, ServletException {
         HttpServletResponse httpResponse = (HttpServletResponse) response;
-        httpResponse.setHeader("Refresh", "10");
+        httpResponse.setHeader("Refresh", "5");
         chain.doFilter(request, response);
     }
 

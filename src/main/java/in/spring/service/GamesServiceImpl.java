@@ -19,7 +19,7 @@ public class GamesServiceImpl implements GamesService {
 	@Override
 	public List<String> getAllTheCategories() {
 		//Create an String[] of all the categories
-		String[] cats = {"In Saree", "Normal Attire", "With Bld(Me)"};
+		String[] cats = {"In Saree", "Normal Attire", "With Bld(Me)", "Gifts"};;
 	
 		//return this String array as a List
 		return Arrays.asList(cats);
