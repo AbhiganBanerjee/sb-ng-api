@@ -18,4 +18,5 @@ public class Games{
 	private String category;
 	private String image;
 	private String desc;
+	private String date;
 }
